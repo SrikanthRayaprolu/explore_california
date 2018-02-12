@@ -1,10 +1,10 @@
 
 
 
-
+tempfile2_.txt
 log.*.log
 log/*.log.[0-9]
-*.txt
+*.zip
 assets/photoshop
 assets/videos
 !assets/videos/tour_*.mp4
