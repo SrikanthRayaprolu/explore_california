@@ -1,11 +1,28 @@
 
 
 
-tempfile2_.txt
-log.*.log
-log/*.log.[0-9]
+
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
 *.zip
-assets/photoshop
-assets/videos
-!assets/videos/tour_*.mp4
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
 
